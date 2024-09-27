@@ -1,4 +1,5 @@
 Leveraging different data analytics tools (Python, Excel, Power BI) to complete Global Health Insights Hackathon Project as a part of my Data Analysis Track of ABDELGHAFOR’S VIRTUAL INTERNSHIPS, hosted by NeuronetiX. 
+
 In collaboration with an amazing team we performed:
 
 1- Data cleaning and EDA using Python
